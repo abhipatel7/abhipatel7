@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
+<h3 align="center">I work as a mern stack developer.</h3>
 
-<!--
-**abhipatel7/abhipatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **NextJS.**
 
-Here are some ideas to get you started:
+- 🎯 I'm Working on Improving my Problem Solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Node,React,Game,Anime,Music.**
+
+- 📫 How to reach me **abhipatel7420@gmail.com**
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipatel7&show_icons=true&theme=radical&show_icons=true&count_private=true)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipatel7&langs_count=8)](https://github.com/abhipatel7/github-readme-stats&theme=radical&show_icons=true&count_private=true)
