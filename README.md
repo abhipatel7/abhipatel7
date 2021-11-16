@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
 <h3 align="center">I work as a mern stack developer.</h3>
 
-- 🌱 I’m currently learning **NextJS.**
-
 - 🎯 I'm Working on Improving my Problem Solving skills.
 
 - 💬 Ask me about **Node,React,Game,Anime,Music.**
