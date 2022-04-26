@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Patel</h1>
-<h3 align="center">I work as a mern stack developer.</h3>
+<h3 align="center">I work as a full stack developer.</h3>
 
 ## 🙋‍♂️ About Me
 
