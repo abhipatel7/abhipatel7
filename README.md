@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Patel</h1>
 
 # 💫 About Me:
-🔭 I’m currently working as a full stack developer<br>🌱 I’m currently learning Dotnet Core<br>💬 Ask me about Web Development, PC Game, Anime, Music.
+🔭 I’m currently working as a full stack developer.<br>🌱 I’m currently learning React Natie.<br>💬 Ask me about Web Development, PC Game, Anime, Music.
 
 
 ## 🌐 Socials:
